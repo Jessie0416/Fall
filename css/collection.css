@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{background-repeat:no-repeat;
+		background-attachment: fixed;
+		background-size:auto;}
+h5{color:midnightblue}
+p{color:ghostwhite}
+img{width="350" height="170";}
+ul.a{list-style-type:circle;}
+div.a{text-align:left;}

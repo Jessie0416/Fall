@@ -1,0 +1,37 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Raley');
+
+html,body{
+		  margin:0;
+		  padding:0;
+		  height:100%;
+		  width:100%;
+		}
+.intro{height:100%;
+	   width:100%;
+	   margin:auto;
+	   background:url('../image/j1.jpg') no-repeat;
+	   backgroun-attachment: fixed;
+	   background-size:auto;
+	   display: table;
+	   top:0;
+	   opacity: 0.8;}
+
+.intro .inner{display:table-cell;
+			 vertical-align:middle;
+			 width:100%;
+			 max-width:none;}
+
+.content {max-width:500px;
+	      margin:0 auto;
+		  text-align: center;}
+
+ h1{font-family:"Raley", sans-serif;
+			color:#F9F3f4;
+			text-shadow:0px 0px 300px #000;
+			font-size:500%;}
+a{color:rosybrown;}
+a:hover{color:darkkhaki;}
+p{text-align: center;
+  font-size:120%;
+	color:azure;}
